@@ -4,5 +4,6 @@ Simple PCA on mortality data. Self explanatory python script to process:
 2) To correct for age group size, CBS population data: Download one csv for each year. https://www.cbs.nl/nl-nl/visualisaties/dashboard-bevolking/bevolkingspiramide
 
 cbsparse.awk parses the csv files from CBS into one singe file
+
 pca.py imports eurostat mortality data and population size data and performs the analysis
 
